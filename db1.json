@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "mikrotik",
-    "adress": "Врублевского 86/1",
+    "adress": "Р’СЂСѓР±Р»РµРІСЃРєРѕРіРѕ 86/1",
     "ip": "192.168.88.1",
     "available": true,
     "messadge_error_tg": true
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "name": "mikrotik_2",
-    "adress": "Врублевского 86/1",
+    "adress": "Р’СЂСѓР±Р»РµРІСЃРєРѕРіРѕ 86/1",
     "ip": "192.168.88.2",
     "available": true,
     "messadge_error_tg": true
@@ -18,15 +18,15 @@
   {
     "id": 2,
     "name": "mikrotik_3",
-    "adress": "Врублевского 86/1",
+    "adress": "Р’СЂСѓР±Р»РµРІСЃРєРѕРіРѕ 86/1",
     "ip": "192.168.88.3",
     "available": true,
     "messadge_error_tg": true
   },
   {
     "id": 3,
-    "name": "Яндекс",
-    "adress": "Серверная №1",
+    "name": "РЇРЅРґРµРєСЃ",
+    "adress": "РђРїРїР°СЂР°С‚РЅР°СЏ в„– 1",
     "ip": "ya.ru",
     "available": false,
     "messadge_error_tg": true
