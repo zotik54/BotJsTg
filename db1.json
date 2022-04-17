@@ -4,15 +4,15 @@
     "name": "mikrotik",
     "adress": "Врублевского 86/1",
     "ip": "192.168.88.1",
-    "available": true,
-    "messadge_error_tg": true
+    "available": false,
+    "messadge_error_tg": false
   },
   {
     "id": 1,
     "name": "mikrotik_2",
     "adress": "Врублевского 86/1",
     "ip": "192.168.88.2",
-    "available": true,
+    "available": false,
     "messadge_error_tg": true
   },
   {
@@ -20,8 +20,8 @@
     "name": "mikrotik_3",
     "adress": "Врублевского 86/1",
     "ip": "192.168.88.3",
-    "available": true,
-    "messadge_error_tg": true
+    "available": false,
+    "messadge_error_tg": false
   },
   {
     "id": 3,
@@ -29,6 +29,6 @@
     "adress": "Аппаратная № 1",
     "ip": "ya.ru",
     "available": false,
-    "messadge_error_tg": true
+    "messadge_error_tg": false
   }
 ]
